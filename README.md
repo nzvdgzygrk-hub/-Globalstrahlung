@@ -10,3 +10,5 @@ Kleine PWA für die 7-Tage-Prognose der Globalstrahlung (GHI) in W/m².
 - iPhone Home-Screen-Icon
 
 Datenquelle: Open-Meteo Forecast API (`shortwave_radiation`).
+
+Bereitstellung: GitHub Pages aus `main` / `root`.
